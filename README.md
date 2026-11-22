@@ -46,7 +46,7 @@ sudo apt install xinput xserver-xorg
 xinput list --short
 ```
 
-Find the physical mouse or touchpad in the list and note its ID. On the
+Find the physical mouse or touchpad in the list and note its ID. On my
 original D600 setup, the mouse was listed as:
 
 `SIGMACHIP USB Keyboard Mouse`
